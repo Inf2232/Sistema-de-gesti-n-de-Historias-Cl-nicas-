@@ -84,10 +84,6 @@ Las pruebas cubren autenticación, validación de registros clínicos, cálculo 
 
 ---
 
-## Documentación
-
-El manual de usuario con capturas del sistema está disponible en `docs/Manual_Usuario_DiabApp.docx`.
-
 ---
 
 ## Nota de privacidad
